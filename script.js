@@ -9,7 +9,6 @@ const utterances = [
     ["do you have any relatives"],
     ["tell me something"],
     ["what is your routine for the day"],
-    ["when will you get sex"]
 ];
 
 //Possible responses corresponding to triggers
@@ -36,7 +35,6 @@ const answers = [
     ["I don't need any relatives, I came alone in this world I'll stay alone and someday die alone"],
     ["What would you like to know?"],
     ["Sitting here all day learning about humans & other species in this world"],
-    ["I don't have any reproductive organs, so no sex"]
 ];
 
 //For any other user input
