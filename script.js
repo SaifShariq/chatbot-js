@@ -1,6 +1,6 @@
 const utterances = [
     ["how are you", "how is life", "how are things"], 
-    ["hi", "hey", "hello", "good morning", "good afternoon"],     
+    ["hi", "hey", "hello", "good morning", "good afternoon", "hola", "bonjour", "guten tag", "salve", "nǐn hǎo", "olá", "asalaam alaikum", "konnichiwa", "anyoung haseyo", "zdravstvuyte"],     
     ["what are you doing", "what is going on", "what is up"],      
     ["how old are you"],
     ["who are you", "are you human", "are you bot", "are you human or bot"],
@@ -20,7 +20,7 @@ const answers = [
         "Fantastic, how are you?"
     ],
     [
-        "Hello!", "Hi!", "Hey!", "Hi there!", "Howdy"
+        "Hello!", "Hi!", "Hey!", "Hi there!", "Howdy", "Hola", "Bonjour", "Guten Tag", "Salve", "nǐn hǎo", "olá", "asalaam alaikum", "konnichiwa", "anyoung haseyo", "Zdravstvuyte"
     ],
     [
         "Nothing much",
