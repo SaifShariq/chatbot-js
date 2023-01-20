@@ -1,3 +1,4 @@
-- A JS built chatbot with a numbered responses
-- Currently the responses are fetched from UtterancesArray, AnswersArray & AlternativeArray
-- It can later be expanded to answer millions of questions by fetching the same from any public APIss
+- A JS built chatbot with numbered responses (added manually)
+- Currently the responses are fetched from UtterancesArray, AnswersArray & AlternativesArray
+- It can later be expanded to answer millions of questions by fetching the same from anyof the public APIs
+- The chatBot returns responses based on the Array[i] currently which may later lead to heavy loads because of multiple looping among millions of responses
